@@ -1,10 +1,10 @@
 # NYC_TAXI-DE-Project
 
-Creating end-to-end data solutions by dynamically pulling the NYC Taxi data from the website.
+To create end-to-end data solutions by dynamically pulling the NYC Taxi data from the website.
 
 **1) Problem**
 
-To build pipelines with automated solution within Data Factory.
+Building pipelines with automated solution within Data Factory.
 
 **2) Data**
 
